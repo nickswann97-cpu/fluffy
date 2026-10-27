@@ -1,0 +1,6 @@
+# Build output (the program is published as a Release download instead)
+*.exe
+*.pdb
+
+# Temporary test files
+_*
